@@ -1,0 +1,10 @@
+homer simpson 25 # bad at nuclear engineering
+ned flanders 99  ! high score
+monty burns 65
+barney gumble 45 # likes beer
+lisa simpson 88 # smart kid
+maggie simpson 70
+bart simpson 50 # troublemaker
+ralph wiggum 10
+moe szyslak 60
+apu nahasapeemapetilon 80
