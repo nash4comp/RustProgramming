@@ -1,1 +1,1 @@
-C:\Dev\Rust\RustProgramming\lab\lab2\cut\target\debug\cut.exe: C:\Dev\Rust\RustProgramming\lab\lab2\cut\src\main.rs
+D:\Development\RustProgramming\lab\lab2\cut\target\debug\cut.exe: D:\Development\RustProgramming\lab\lab2\cut\src\main.rs

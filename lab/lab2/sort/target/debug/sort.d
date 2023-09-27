@@ -1,1 +1,1 @@
-C:\Dev\Rust\RustProgramming\lab\lab2\sort\target\debug\sort.exe: C:\Dev\Rust\RustProgramming\lab\lab2\sort\src\main.rs
+D:\Development\RustProgramming\lab\lab2\sort\target\debug\sort.exe: D:\Development\RustProgramming\lab\lab2\sort\src\main.rs
