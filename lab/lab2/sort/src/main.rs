@@ -1,4 +1,4 @@
-// Rust Lab 2-1
+// Rust Lab 2-1. Sort
 // Nash Baek, A01243888
 
 // Criteria
